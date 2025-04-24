@@ -1,0 +1,1 @@
+Here i use my sql to extract and analyze data freom  a database name maven movies here i use different different statements and functions like select,where,order by,group by,joins,(inner,left,right),i write subquries,use aggregate function such as sum, average,and try to optimze the queries
